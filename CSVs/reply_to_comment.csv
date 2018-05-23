@@ -1,0 +1,5 @@
+﻿id,blog_id,reply_id,user_id,body
+7,1,1,saburo,reply to hanako
+8,2,2,shiro,reply to hanako
+9,2,9,hanako,reply to shiro
+10,3,4,hanako,reply to shiro
